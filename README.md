@@ -1,4 +1,4 @@
 # Bus-arrival
 
-Программа, которая отправляет запрос к API с помощью библиотеки requests.
-Позволяет ввести id автобусной остановки и получить список автобусов, которые курсируют по маршруту, а также время прибытия автобуса на эту остановку.
+A program that sends a request to the API using the requests library.
+Allows you to enter the bus stop ID and get a list of buses that run along the route, as well as the bus arriva time at this stop.
